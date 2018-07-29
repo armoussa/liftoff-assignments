@@ -39,3 +39,10 @@ HTML
 ### What I'll Have to Learn
 I will have to learn how to enable users to upload pictures to their profile. I will also have to learn how to incorporate location services to track and display the distance between user inputs of addresses. Lastly, I will have to integrate various API’s into the web app such as GoogleMaps and haveibeenpwned.com.
 
+### Wireframes
+
+[Click to view Aida's Wireframes](https://app.moqups.com/aida.moussalli@gmail.com/L4LVmmO8RD/view/page/a48d36bb3)
+
+### Project Tracker
+
+[Click to view ExerciseMeetup's Project Tracker](https://trello.com/b/PADQmUzH/exercise-meetup)
