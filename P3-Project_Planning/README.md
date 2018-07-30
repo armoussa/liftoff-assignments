@@ -8,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[Click to view Aida's Wireframes](https://app.moqups.com/aida.moussalli@gmail.com/L4LVmmO8RD/view/page/a48d36bb3)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Click to view ExerciseMeetup's Project Tracker](https://trello.com/b/PADQmUzH/exercise-meetup)
